@@ -3,11 +3,6 @@
 ## Intro
 Game built using Visual Studio 2010 IDE, and timmers as an threading tool.
 
-
-## I Say
-Project Made in 2D using Microsoft Windows Forms, .Net Framework in C#.
-
-
 ### How It Looks Like
 ![halicopter view 2D](https://github.com/shahryaraly/halicopter-clash-2d/blob/main/halicopter-view.png?raw=true)
 
