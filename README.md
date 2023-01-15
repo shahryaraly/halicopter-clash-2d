@@ -3,8 +3,8 @@
 ## Intro
 Game built using Visual Studio 2010 IDE, and timmers as an threading tool.
 
-### How It Looks Like
-![halicopter view 2D](https://github.com/shahryaraly/halicopter-clash-2d/blob/main/halicopter-view.png?raw=true)
+### How Video Demo Looks Like
+[![halicopter view 2D](https://github.com/shahryaraly/halicopter-clash-2d/blob/main/halicopter-view.png?raw=true)](https://youtu.be/2Bo2JvGDhxQ)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
